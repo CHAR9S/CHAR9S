@@ -15,7 +15,7 @@ Career Evidence turns lessons from Canadian employment-service training material
 | Project | Purpose | Status |
 | --- | --- | --- |
 | [Canada Resume Skill](https://github.com/CHAR9S/canada-resume-skill) | Tailor a resume, improve accomplishment statements, and understand each edit | Available |
-| Interview Presentation Skill | Turn relevant experience into a personal introduction, project stories, and a focused interview deck | In development |
+| [Interview Presentation Skill](https://github.com/CHAR9S/career-presentation-skill) | Turn relevant experience into a personal introduction, project stories, and a focused interview deck | Available |
 
 These are independently developed tools, not an institutional partnership or a promise of hiring results. My professional background is design and production; the career guidance is informed by training resources, not a claim of recruiting or career-counselling credentials.
 
@@ -38,7 +38,7 @@ Try the resume skill and share a fictional or redacted example in its [discussio
 
 **Career Evidence｜让真实经历，更符合加拿大招聘语境**
 
-本系列提炼加拿大本地就业服务机构的简历培训资料，结合公开就业指导，整理成可直接使用的 AI 工作流。围绕岗位要求、经历证据和成果表达，帮助求职者完成简历优化；配套的个人求职／面试展示技能正在开发中。
+本系列提炼加拿大本地就业服务机构的简历培训资料，结合公开就业指导，整理成可直接使用的 AI 工作流。围绕岗位要求、经历证据和成果表达，帮助求职者完成简历优化；配套的[个人求职／面试展示技能](https://github.com/CHAR9S/career-presentation-skill)也已发布。
 
 项目强调本地申请习惯、具体岗位匹配、有依据的成果表达，以及能解释理由的修改。适用于新移民、毕业生、转行者和希望更清楚展示自身价值的专业人士。
 
